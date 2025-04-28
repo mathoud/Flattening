@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/974492044.svg)](https://doi.org/10.5281/zenodo.15299720)
+
 # l-Multilinear Ranks from Tensor Flattenings
 
 This repository contains Mathematica code for computing the l-multilinear ranks (l-multiranks) of an order-n tensor, representing multipartite quantum states, via tensor flattenings.
