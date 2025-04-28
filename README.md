@@ -11,3 +11,9 @@ This repository contains Mathematica code for computing the l-multilinear ranks 
 
 ## Requirements
 - Mathematica 12+ (earlier versions might also work)
+
+## 📜 Citation
+
+If you use this code, please cite it as:
+
+Masoud Gharahi. (2025). *tensor-l-multilinear-rank: Mathematica code for computing l-multilinear ranks from tensor flattenings* (Version 1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.15299720
