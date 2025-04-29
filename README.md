@@ -5,8 +5,8 @@
 This repository contains Mathematica code for computing the ℓ-multilinear ranks (ℓ-multiranks) of an order-n tensor, representing multipartite quantum states, via tensor flattenings.
 
 ## Features
-- Computes flattenings along arbitrary subsets of modes.
-- Calculates the rank of each flattening.
+- Computes l-multilinear ranks for arbitrary order-n tensors representing multipartite quantum states in the Hilbert space H=⊗_{j=1}^{n}C^{d_j}.
+- Supports tensor flattening along different partitions and calculates the rank of each flattening
 - Useful for analyzing entanglement structure in multipartite quantum systems.
 
 ## Requirements
