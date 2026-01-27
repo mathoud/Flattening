@@ -26,7 +26,7 @@ This version is stable and ready for scientific citation.
 
 If you use this code, please cite it as:
 
-Masoud Gharahi. (2025). ℓ-Multilinear Ranks of Multipartite Quantum States via Tensor Flattening: A Mathematica Codebase (Version 1.0.3) [Software]. Zenodo. https://doi.org/10.5281/zenodo.15299720
+Masoud Gharahi. (2025). ℓ-Multiranks of Multipartite Quantum States via Tensor Flattening: A Mathematica Codebase https://doi.org/10.48550/arXiv.2601.11551
 
 
 ## References:
