@@ -57,4 +57,4 @@ Masoud Gharahi. (2025). ℓ-Multiranks of Multipartite Quantum States via Tensor
 1. M. Gharahi, S. Mancini, and G. Ottaviani, Fine-structure classification of multiqubit entanglement by algebraic geometry, Phys. Rev. Research 2, 043003 (2020). https://doi.org/10.1103/PhysRevResearch.2.043003
 2. M. Gharahi and S. Mancini, Algebraic-geometric characterization of tripartite entanglement, Phys. Rev. A 104, 042402 (2021). https://doi.org/10.1103/PhysRevA.104.042402
 3. M. Gharahi, Classifying entanglement by algebraic geometry, Int. J. Quant. Inf. 22, 2350047 (2024). https://doi.org/10.1142/S0219749923500478
-4. M. Gharahi and S. Mancini, Entangled Subspaces through Algebraic Geometry, arXiv:2504.11525 (2025). https://doi.org/10.48550/arXiv.2504.11525
+4. M. Gharahi and S. Mancini, Entangled Subspaces through Algebraic Geometry, Quantum 9, 1947 (2025). https://doi.org/10.22331/q-2025-12-15-1947
