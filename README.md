@@ -19,7 +19,7 @@ It includes:
 
 - additional GHZ, biseparable, and fully separable examples for classroom exploration.
 
-## The original Mathematica notebook `Flattening.nb` is retained separately.
+ The original Mathematica notebook `Flattening.nb` is retained separately.
 
 [![DOI](https://zenodo.org/badge/974492044.svg)](https://doi.org/10.5281/zenodo.15299720)
 
