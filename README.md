@@ -1,3 +1,28 @@
+
+## Physics Education companion code
+
+The file [`PhysicsEducation_MultirankProfile.wl`](PhysicsEducation_MultirankProfile.wl) contains the Mathematica routine and examples accompanying the manuscript
+
+**“Exploring Multipartite Entanglement through Tensor Flattening with Mathematica.”**
+
+This pedagogical version labels each tensor flattening by its corresponding subsystem partition, making the connection between bipartitions, Schmidt ranks, and multipartite entanglement explicit.
+
+It includes:
+
+- the `MultirankProfile` routine;
+
+- a three-qubit W-state example;
+
+- a four-qubit example illustrating one-versus-three and two-versus-two bipartitions;
+
+- a three-qutrit example;
+
+- additional GHZ, biseparable, and fully separable examples for classroom exploration.
+
+The original Mathematica notebook `Flattening.nb` is retained separately.
+
+
+
 [![DOI](https://zenodo.org/badge/974492044.svg)](https://doi.org/10.5281/zenodo.15299720)
 
 ## ℓ-Multilinear Ranks from Tensor Flattenings
