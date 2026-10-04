@@ -1,7 +1,4 @@
 
-## Physics Education companion code
-
-The file [`PhysicsEducation_MultirankProfile.wl`](PhysicsEducation_MultirankProfile.wl) contains the Mathematica routine and examples accompanying the manuscript
 
 **“Exploring Multipartite Entanglement through Tensor Flattening with Mathematica.”**
 
